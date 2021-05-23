@@ -12,3 +12,8 @@
 .SFooterLink-xs li:last-child{ border-right:none;}
 .SFooterLink-xs li:hover{background:#0f9142;}
 .SFooterLink-xs li a{color: #fff;}
+
+.btn-desh {color: #fff;background-color: #086534;border-color: #086534;}
+.btn-desh:hover {color: #fff;background-color: #0f9142;border-color: #0f9142;}
+.text-white {color: #fff !important;}
+
