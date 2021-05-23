@@ -123,7 +123,7 @@
 										<li><a href="indx.php"><i class="fa fa-home" aria-hidden="true"></i></a></li>
 										<li class="dropdown">
 											<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">পৌরসভা তথ্য<span class="caret"></span></a>
-											<ul class="dropdown-menu">
+											<ul class="dropdown-menu dropdown-menus">
 												<li><a href="javascript:void(0)">পৌরসভার সংক্ষিপ্ত বিবরন</a></li>
 												<li><a href="javascript:void(0)">পৌরসভার সাংগঠনিক কাঠামো</a></li>
 												<li><a href="javascript:void(0)">পৌরসভার মানচিত্র</a></li>
@@ -136,7 +136,7 @@
 										<li><a href="javascript:void(0)">যোগাযোগ</a></li>
 										<li class="dropdown">
 											<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">জরুরী যোগাযোগ<span class="caret"></span></a>
-											<ul class="dropdown-menu">
+											<ul class="dropdown-menu dropdown-menus">
 												<li><a href="javascript:void(0)">মেয়রের প্রোফাইল এবং সংযোগ</a></li>
 												<li><a href="javascript:void(0)">কাউন্সিলরদের প্রোফাইল এবং সংযোগ</a>
 												</li>

@@ -16,4 +16,5 @@
 .btn-desh {color: #fff;background-color: #086534;border-color: #086534;}
 .btn-desh:hover {color: #fff;background-color: #0f9142;border-color: #0f9142;}
 .text-white {color: #fff !important;}
+.dropdown{z-index: 11111;}
 

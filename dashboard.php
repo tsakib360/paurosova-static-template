@@ -12,6 +12,10 @@
         margin: 0px;
     }
 
+    /* ul.nav li:hover > ul.dropdown-menu {
+        display: none;
+    } */
+
     /*Remove rounded coners*/
 
     nav.sidebar.navbar {

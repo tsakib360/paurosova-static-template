@@ -44,7 +44,7 @@ p{text-align:justify;}
 
 
 @media (min-width:768px){
-	ul.nav li:hover > ul.dropdown-menu{display:block;}
+	ul.nav li:hover > ul.dropdown-menus{display:block;}
 	#navbar{text-align:center;}
 }
 .UFTop{background:#fff;margin:0;padding-top:20px;}
@@ -53,7 +53,7 @@ p{text-align:justify;}
 .UFBottom p{color:#444;text-align:center;}
 .UFBottom p a{color:#444;}
 .UFooterLink{padding:0;margin:0;}
-.UFooterLink li{ border-right:1px solid #d8d8d8;display:inline-block;padding:5px 10px;}
+.UFooterLink li{ border-right:1px solid #d8d8d8;display:inline-block;padding:5px 10px;z-index: 11111;}
 .UFooterLink li:last-child{ border-right:none;}
 .UFooterLink li:hover{background:#777777;}
 
