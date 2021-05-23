@@ -104,7 +104,7 @@
 
         /*gives sidebar width/height*/
         nav.sidebar {
-            width: 200px;
+            /* width: 200px; */
             height: 100%;
             margin-left: -160px;
             float: left;
